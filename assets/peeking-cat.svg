@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 110" width="180" height="110" role="img" aria-label="Black ink line doodle of a peeking cat">
+<g fill="#FFFCF7" stroke="#25201F" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M29 92V42L49 13 66 32Q91 20 119 32L139 13 153 45V92"/>
+<path d="M53 67q8-9 17 0M110 67q8-9 17 0" fill="none"/>
+<path d="M86 72l8 0-4 5z" fill="#E7B8A6"/>
+<path d="M90 77q-5 7-12 2M90 77q5 7 12 2" fill="none"/>
+<path d="M60 79l-20-5M60 86l-20 0M120 79l20-5M120 86l20 0" fill="none" stroke-width="2"/>
+<path d="M18 94h148" stroke-width="4"/>
+</g><ellipse cx="57" cy="75" rx="10" ry="5" fill="#F4C9BE" opacity=".6"/><ellipse cx="122" cy="75" rx="10" ry="5" fill="#F4C9BE" opacity=".6"/>
+</svg>

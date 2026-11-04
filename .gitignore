@@ -1,0 +1,41 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+samples/
+reports/
+uploads/
+*.log
+*.zip
+app_before*.py
+style_before*.css
+*_backup.py
+# Large datasets
+*.rar
+*.zip
+
+# Virtual environment
+venv/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Backups
+app_backup.py
+app_before*.py
+app_indent_backup.py
+app_milestone*.py
+style_before*.css
+
+# Local test data
+samples/
+reports/
+uploads/
+
+# Private information
+.env
+.streamlit/secrets.toml
